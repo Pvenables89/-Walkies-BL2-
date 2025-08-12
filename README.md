@@ -1,10 +1,10 @@
-# Pawsome Walks - Dog Walking Service Website
+#Walkies-BL2 - Dog Walking Service Website
 
 Welcome to the repository for **Pawsome Walks**, a small business website offering reliable and caring dog walking services.
 
 ## About
 
-Pawsome Walks provides dog walking services to keep your furry friends happy and healthy. This website showcases our services, company information, and a contact form for customers.
+#Walkies-BL2 provides dog walking services to keep your furry friends happy and healthy. This website showcases our services, company information, and a contact form for customers.
 
 ## Website Features
 
